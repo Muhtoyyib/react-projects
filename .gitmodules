@@ -1,3 +1,15 @@
 [submodule "ROA-Clothing"]
 	path = ROA-Clothing
 	url = https://github.com/Muhtoyyib/ROA-Clothing
+[submodule "monsters-rolodex"]
+	path = monsters-rolodex
+	url = https://github.com/Muhtoyyib/monsters-rolodex.git
+[submodule "react-router-test"]
+	path = react-router-test
+	url = https://github.com/Muhtoyyib/react-router-test.git
+[submodule "solve-it-react"]
+	path = solve-it-react
+	url = https://github.com/Muhtoyyib/solve-it-react.git
+[submodule "payfyr-waitlist"]
+	path = payfyr-waitlist
+	url = https://github.com/Muhtoyyib/payfyr-waitlist.git

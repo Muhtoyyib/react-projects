@@ -4,3 +4,6 @@
 [submodule "monsters-rolodex"]
 	path = monsters-rolodex
 	url = https://github.com/Muhtoyyib/monsters-rolodex.git
+[submodule "react-router-test"]
+	path = react-router-test
+	url = https://github.com/Muhtoyyib/react-router-test.git

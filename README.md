@@ -10,7 +10,7 @@ I am open to suggestions, bug reports, and contributions from the community. If 
 
 You can find me on other platforms:
 
-[Twitter](https://img.shields.io/twitter/url/https/twitter.com/devtoheeb?style=social)](https://twitter.com/devtoheeb)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/akande-olalekan-toheeb-2a69a0221/).
+- [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/devtoheeb?style=social)](https://twitter.com/devtoheeb)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/akande-olalekan-toheeb-2a69a0221/).
 
 Thanks for visiting my React Projects Portfolio! I hope you find something interesting and useful here. Happy coding! :rocket:

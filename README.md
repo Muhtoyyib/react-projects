@@ -9,12 +9,6 @@ Welcome to my React Projects Portfolio! This repository serves as a hub for all 
 - [react-router-test](https://github.com/Muhtoyyib/react-router-test/tree/94c167a82f9092f040cc8bae49334cf6bcef385c): Built this while learning react-router on its official website.
 - [solve-it](https://github.com/Muhtoyyib/solve-it-react/tree/da8afd40776d263615e833c3cbaafbba493cedfa): A react application that addresses permutation and combination mathematical problems. The application was created to assist young individuals in the community in solving these math-related issues conveniently.
 
-React
-Add any other relevant badges or project-specific information.
-Project 3: Short description of the project.
-
-
-
 ## Contribution
 
 I am open to suggestions, bug reports, and contributions from the community. If you find any issues or have ideas for improvements, feel free to open an issue or submit a pull request.

@@ -13,3 +13,6 @@
 [submodule "payfyr-waitlist"]
 	path = payfyr-waitlist
 	url = https://github.com/Muhtoyyib/payfyr-waitlist.git
+[submodule "HNG-stage-two"]
+	path = HNG-stage-two
+	url = https://github.com/Muhtoyyib/HNG-stage-two
